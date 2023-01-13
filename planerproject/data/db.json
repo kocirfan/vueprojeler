@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum nedir?",
+      "details": "Lorem Ipsum , basım ve dizgi endüstrisinin basit bir şekilde sahte metnidir. Lorem Ipsum, bilinmeyen bir yazıcının bir yazı tipi kadırgasını alıp onu bir tip numune kitabı yapmak için karıştırdığı 1500'lerden beri endüstrinin standart sahte metni olmuştur. Sadece beş yüz yıl hayatta kalmakla kalmadı, aynı zamanda esasen değişmeden elektronik dizgiye sıçradı. 1960'larda Lorem Ipsum pasajları içeren Letraset yapraklarının yayınlanmasıyla ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımlarıyla popüler oldu.",
+      "complate": true
+    },
+    {
+      "id": 2,
+      "title": "Neden kullanıyoruz?",
+      "details": "Bir sayfanın düzenine bakıldığında okunabilir içeriğin okuyucunun dikkatini dağıtacağı uzun zamandır bilinen bir gerçektir. Lorem Ipsum'u kullanmanın amacı, 'İçerik burada, içerik burada' seçeneğinin aksine, aşağı yukarı normal bir harf dağılımına sahip olması ve okunabilir bir İngilizce gibi görünmesidir. Birçok masaüstü yayıncılık paketi ve web sayfası düzenleyicisi artık varsayılan model metni olarak Lorem Ipsum'u kullanıyor ve 'lorem ipsum' için yapılan bir arama, henüz emekleme aşamasında olan birçok web sitesini ortaya çıkaracaktır. Yıllar içinde, bazen kazara, bazen kasıtlı olarak (mizah zerresi vb.) çeşitli versiyonlar geliştirilmiştir.",
+      "complate": true
+    },
+    {
+      "title": "Nereden geliyor?",
+      "details": "Popüler inanışın aksine, Lorem Ipsum rastgele bir metin değildir. Kökleri MÖ 45 yılına ait bir klasik Latin edebiyatına dayanmaktadır ve bu da onu 2000 yıldan daha eski yapmaktadır. Virginia'daki Hampden-Sydney College'da Latince profesörü olan Richard McClintock, bir Lorem Ipsum pasajında ​​geçen ve anlaşılması en güç Latince sözcüklerden biri olan consectetur'a baktı ve kelimenin klasik edebiyattaki örneklerini incelerken kesin kaynağı keşfetti. Lorem Ipsum, Cicero'nun MÖ 45'te yazdığı \"de Finibus Bonorum et Malorum\" (İyinin ve Kötünün Aşırılıkları) kitabının 1.10.32 ve 1.10.33 bölümlerinden gelmektedir. Bu kitap, Rönesans döneminde çok popüler olan etik teorisi üzerine bir incelemedir. Lorem Ipsum'un ilk satırı, \"Lorem ipsum dolor sit amet..\", bölüm 1.10.32'deki bir satırdan gelir.",
+      "complate": false,
+      "id": 3
+    },
+    {
+      "title": "Nereden alabilirim?",
+      "details": "Lorem Ipsum pasajlarının pek çok varyasyonu mevcuttur, ancak bunların çoğu, biraz olsun inandırıcı görünmeyen mizah ya da rastgele sözcüklerle bir şekilde değişikliğe uğramıştır. Eğer bir Lorem Ipsum pasajı kullanacaksanız, metnin ortasında utandırıcı bir şey gizlenmediğinden emin olmalısınız. İnternetteki tüm Lorem Ipsum üreteçleri, önceden tanımlanmış parçaları gerektiği gibi tekrar etme eğilimindedir, bu da bunu İnternet'teki ilk gerçek oluşturucu yapar. Makul görünen Lorem Ipsum oluşturmak için bir avuç model cümle yapısıyla birleştirilmiş 200'den fazla Latince kelimeden oluşan bir sözlük kullanır. Oluşturulan Lorem Ipsum bu nedenle her zaman tekrardan, mizahtan veya karakteristik olmayan kelimelerden vs. muaftır.",
+      "complate": false,
+      "id": 4
+    },
+    {
+      "title": "1500'lerden beri kullanılan standart Lorem Ipsum pasajı",
+      "details": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utlabore et dolore magna aliqua. Ut enim ad minimum veniam, quis nostrud exercitation ullamcolaboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rerehenderit in voluptate Velit esse cillum dolore eu fugiat nulla pariatur.Exceptional sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id estlaborum.\"",
+      "complate": false,
+      "id": 5
+    }
+  ]
+}
