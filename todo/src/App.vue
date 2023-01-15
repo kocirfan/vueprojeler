@@ -76,5 +76,6 @@ nav a.router-link-exact-active {
 .done {
   text-decoration: line-through;
   /* push */
+   /* push1 */
 }
 </style>
