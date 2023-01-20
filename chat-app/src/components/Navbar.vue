@@ -18,9 +18,9 @@ export default {
     
     const handleClick = async () =>{
       await logout();
-      if(!error.value){
-        console.log('user logged out');
-      }
+      // if(!error.value){
+      //   console.log('user logged out');
+      // }
     }
 
     return{handleClick ,user}
